@@ -1,3 +1,3 @@
-- Hi, I’m Rafaela 👋 
+- Hi there!
 
-- 🌱 I’m currently learning: Data base, cloud computing and python!
+- 🌱 I’m currently learning: Data base, java and python!
